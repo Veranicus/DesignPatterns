@@ -1,43 +1,174 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="997b3f9b-c4a6-42a8-9b3a-f8c2093358cc" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="997b3f9b-c4a6-42a8-9b3a-f8c2093358cc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/Builder/BuilderClassDiagram.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/Builder/BuilderInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/Builder/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/Builder/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/Builder/ConcreteBuilderSequenceDiagram.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/Builder/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/Builder/Motorcycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/Builder/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/Factory/factory_pattern_uml_diagram.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/abstractfactory/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/abstractfactory/abstract_factory.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/abstractfactory/abstract_factory_class_diagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/abstractfactory/abstractfactory/creators/AbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/abstractfactory/abstractfactory/creators/ColorFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/abstractfactory/abstractfactory/creators/FactoryProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/abstractfactory/abstractfactory/creators/ShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/abstractfactory/abstractfactory/productfamily/color/Blue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/abstractfactory/abstractfactory/productfamily/color/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/abstractfactory/abstractfactory/productfamily/color/Green.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/abstractfactory/abstractfactory/productfamily/color/Red.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/abstractfactory/abstractfactory/productfamily/shape/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/abstractfactory/abstractfactory/productfamily/shape/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/abstractfactory/abstractfactory/productfamily/shape/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/abstractfactory/abstractfactory/productfamily/shape/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/abstractfactory/challenge/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/abstractfactory/challenge/creator/AbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/abstractfactory/challenge/creator/BollywoodMovieFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/abstractfactory/challenge/creator/FactoryProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/abstractfactory/challenge/creator/HollywoodMovieFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/abstractfactory/challenge/productFamily/bollywoodmovie/BollywoodActionMovie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/abstractfactory/challenge/productFamily/bollywoodmovie/BollywoodComedyMovie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/abstractfactory/challenge/productFamily/bollywoodmovie/BollywoodMovie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/abstractfactory/challenge/productFamily/hollywoodmovie/HollywoodActionMovie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/abstractfactory/challenge/productFamily/hollywoodmovie/HollywoodComedyMovie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/abstractfactory/challenge/productFamily/hollywoodmovie/HollywoodMovie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/singleton/Singleton_summary.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/singleton/bill_pugh_approach/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/singleton/bill_pugh_approach/TestSingeton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/singleton/challenge/Captain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/singleton/challenge/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/singleton/double_checked_locking_example/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/singleton/double_checked_locking_example/TestSingeton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/singleton/eager_initialization_example/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/singleton/eager_initialization_example/TestSingeton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/singleton/lazy_initialization_example/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/singleton/lazy_initialization_example/TestSingeton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/singleton/singleton_class_diagram.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/singleton/synchronization_approach_example/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/singleton/synchronization_approach_example/TestSingeton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1ZCzz7zkua4XuSfhQFzbIKArPAb" />
-  <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZCzz7zkua4XuSfhQFzbIKArPAb" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/SoftComputingVEconomice/BackpropagationGonFunkce" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Zakaznik\JavaDesignPatterns\DesignPatterns\src\com\patrikpolacek\singleton\bill_pugh_approach" />
+      <recent name="C:\Users\Zakaznik\JavaDesignPatterns\DesignPatterns\src\com\patrikpolacek\singleton\eager_initialization_example" />
+      <recent name="C:\Users\Zakaznik\JavaDesignPatterns\DesignPatterns\src\com\patrikpolacek\singleton\double_checked_locking_example" />
+      <recent name="C:\Users\Zakaznik\JavaDesignPatterns\DesignPatterns\src\com\patrikpolacek\singleton\synchronization_approach_example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Client (3)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.patrikpolacek.Main" />
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.patrikpolacek.abstractfactory.challenge.Client" />
       <module name="DesignPatternsCourse" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.patrikpolacek.abstractfactory.challenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.patrikpolacek.singleton.challenge.Client" />
+      <module name="DesignPatternsCourse" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.patrikpolacek.singleton.challenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.patrikpolacek.Builder.Client" />
+      <module name="DesignPatternsCourse" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.patrikpolacek.Builder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.patrikpolacek.abstractfactory.Client" />
+      <module name="DesignPatternsCourse" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.patrikpolacek.abstractfactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSingeton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.patrikpolacek.singleton.lazy_initialization_example.TestSingeton" />
+      <module name="DesignPatternsCourse" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.patrikpolacek.singleton.lazy_initialization_example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -75,7 +206,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Client (3)" />
+        <item itemvalue="Application.Client (2)" />
+        <item itemvalue="Application.TestSingeton" />
+        <item itemvalue="Application.Client (1)" />
+        <item itemvalue="Application.Client" />
       </list>
     </recent_temporary>
   </component>
@@ -90,10 +225,68 @@
       <option name="presentableId" value="Default" />
       <updated>1584358123147</updated>
       <workItem from="1584358126185" duration="568000" />
+      <workItem from="1584437996815" duration="4152000" />
+      <workItem from="1584443050344" duration="3128000" />
+      <workItem from="1584525776010" duration="6030000" />
+      <workItem from="1584621032396" duration="630000" />
+      <workItem from="1584704222464" duration="3117000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="190" y="125" key="#com.intellij.ide.util.MemberChooser" timestamp="1584705801521">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="190" y="125" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1584705801521" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1584621058932">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584621058932" />
+    <state width="723" height="261" key="GridCell.Tab.0.bottom" timestamp="1584536659038">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584536659038" />
+    <state width="723" height="261" key="GridCell.Tab.0.center" timestamp="1584536659038">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584536659038" />
+    <state width="723" height="261" key="GridCell.Tab.0.left" timestamp="1584536659038">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584536659038" />
+    <state width="723" height="261" key="GridCell.Tab.0.right" timestamp="1584536659038">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584536659038" />
+    <state width="723" height="261" key="GridCell.Tab.1.bottom" timestamp="1584536659038">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584536659038" />
+    <state width="723" height="261" key="GridCell.Tab.1.center" timestamp="1584536659038">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1584536659038" />
+    <state width="723" height="261" key="GridCell.Tab.1.left" timestamp="1584536659038">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1584536659038" />
+    <state width="723" height="261" key="GridCell.Tab.1.right" timestamp="1584536659038">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1584536659038" />
+    <state x="87" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1584704646690">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="87" y="239" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1584704646690" />
+    <state x="48" y="189" key="run.anything.popup" timestamp="1584448290673">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="48" y="189" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1584448290673" />
   </component>
 </project>
