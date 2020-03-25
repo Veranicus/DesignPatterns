@@ -1,4 +1,4 @@
-package com.patrikpolacek.Builder;
+package com.patrikpolacek.Builder.BuilderExample;
 //Steps for director
 public interface BuilderInterface {
     void buildBody();

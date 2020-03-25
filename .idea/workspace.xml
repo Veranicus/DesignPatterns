@@ -2,58 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="997b3f9b-c4a6-42a8-9b3a-f8c2093358cc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/Builder/BuilderClassDiagram.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/Builder/BuilderInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/Builder/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/Builder/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/Builder/ConcreteBuilderSequenceDiagram.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/Builder/Director.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/Builder/Motorcycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/Builder/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/Factory/factory_pattern_uml_diagram.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/abstractfactory/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/abstractfactory/abstract_factory.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/abstractfactory/abstract_factory_class_diagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/abstractfactory/abstractfactory/creators/AbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/abstractfactory/abstractfactory/creators/ColorFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/abstractfactory/abstractfactory/creators/FactoryProducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/abstractfactory/abstractfactory/creators/ShapeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/abstractfactory/abstractfactory/productfamily/color/Blue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/abstractfactory/abstractfactory/productfamily/color/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/abstractfactory/abstractfactory/productfamily/color/Green.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/abstractfactory/abstractfactory/productfamily/color/Red.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/abstractfactory/abstractfactory/productfamily/shape/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/abstractfactory/abstractfactory/productfamily/shape/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/abstractfactory/abstractfactory/productfamily/shape/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/abstractfactory/abstractfactory/productfamily/shape/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/abstractfactory/challenge/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/abstractfactory/challenge/creator/AbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/abstractfactory/challenge/creator/BollywoodMovieFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/abstractfactory/challenge/creator/FactoryProducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/abstractfactory/challenge/creator/HollywoodMovieFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/abstractfactory/challenge/productFamily/bollywoodmovie/BollywoodActionMovie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/abstractfactory/challenge/productFamily/bollywoodmovie/BollywoodComedyMovie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/abstractfactory/challenge/productFamily/bollywoodmovie/BollywoodMovie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/abstractfactory/challenge/productFamily/hollywoodmovie/HollywoodActionMovie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/abstractfactory/challenge/productFamily/hollywoodmovie/HollywoodComedyMovie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/abstractfactory/challenge/productFamily/hollywoodmovie/HollywoodMovie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/singleton/Singleton_summary.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/singleton/bill_pugh_approach/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/singleton/bill_pugh_approach/TestSingeton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/singleton/challenge/Captain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/singleton/challenge/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/singleton/double_checked_locking_example/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/singleton/double_checked_locking_example/TestSingeton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/singleton/eager_initialization_example/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/singleton/eager_initialization_example/TestSingeton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/singleton/lazy_initialization_example/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/singleton/lazy_initialization_example/TestSingeton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/singleton/singleton_class_diagram.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/singleton/synchronization_approach_example/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/singleton/synchronization_approach_example/TestSingeton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/Builder/Challenge/Bottle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/Builder/Challenge/BuilderInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/Builder/Challenge/ChickenMealBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/Builder/Challenge/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/Builder/Challenge/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/Builder/Challenge/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/Builder/Challenge/Meal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/Builder/Challenge/Packing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/Builder/Challenge/VegMealBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/Builder/Challenge/Wrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/Builder/Challenge/burger/Burger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/Builder/Challenge/burger/ChickenBurger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/Builder/Challenge/burger/VegBurger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/Builder/Challenge/drink/CocaCola.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/Builder/Challenge/drink/ColdDrink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/Builder/Challenge/drink/PepsiCola.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatternsCourse/com/patrikpolacek/Builder/BuilderClassDiagram.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatternsCourse/com/patrikpolacek/Builder/BuilderInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatternsCourse/com/patrikpolacek/Builder/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatternsCourse/com/patrikpolacek/Builder/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatternsCourse/com/patrikpolacek/Builder/ConcreteBuilderSequenceDiagram.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatternsCourse/com/patrikpolacek/Builder/Director.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatternsCourse/com/patrikpolacek/Builder/Motorcycle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatternsCourse/com/patrikpolacek/Builder/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/patrikpolacek/Builder/BuilderClassDiagram.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/patrikpolacek/Builder/BuilderExample/BuilderClassDiagram.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/patrikpolacek/Builder/BuilderInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/patrikpolacek/Builder/BuilderExample/BuilderInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/patrikpolacek/Builder/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/patrikpolacek/Builder/BuilderExample/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/patrikpolacek/Builder/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/patrikpolacek/Builder/BuilderExample/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/patrikpolacek/Builder/ConcreteBuilderSequenceDiagram.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/patrikpolacek/Builder/BuilderExample/ConcreteBuilderSequenceDiagram.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/patrikpolacek/Builder/Director.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/patrikpolacek/Builder/BuilderExample/Director.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/patrikpolacek/Builder/Motorcycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/patrikpolacek/Builder/BuilderExample/Motorcycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/patrikpolacek/Builder/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/patrikpolacek/Builder/BuilderExample/Product.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +70,9 @@
     <property name="last_opened_file_path" value="$USER_HOME$/SoftComputingVEconomice/BackpropagationGonFunkce" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Zakaznik\JavaDesignPatterns\DesignPatterns\src\com\patrikpolacek\Builder\BuilderExample" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Zakaznik\JavaDesignPatterns\DesignPatterns\src\com\patrikpolacek\singleton\bill_pugh_approach" />
       <recent name="C:\Users\Zakaznik\JavaDesignPatterns\DesignPatterns\src\com\patrikpolacek\singleton\eager_initialization_example" />
@@ -96,7 +80,7 @@
       <recent name="C:\Users\Zakaznik\JavaDesignPatterns\DesignPatterns\src\com\patrikpolacek\singleton\synchronization_approach_example" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Client (3)">
+  <component name="RunManager" selected="Application.Client (4)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -145,13 +129,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.patrikpolacek.abstractfactory.Client" />
+    <configuration name="Client (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.patrikpolacek.Builder.Challenge.Client" />
       <module name="DesignPatternsCourse" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.patrikpolacek.abstractfactory.*" />
+          <option name="PATTERN" value="com.patrikpolacek.Builder.Challenge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client (4)" />
         <item itemvalue="Application.Client (3)" />
         <item itemvalue="Application.Client (2)" />
         <item itemvalue="Application.TestSingeton" />
         <item itemvalue="Application.Client (1)" />
-        <item itemvalue="Application.Client" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +213,7 @@
       <workItem from="1584443050344" duration="3128000" />
       <workItem from="1584525776010" duration="6030000" />
       <workItem from="1584621032396" duration="630000" />
-      <workItem from="1584704222464" duration="3117000" />
+      <workItem from="1584704222464" duration="7110000" />
     </task>
     <servers />
   </component>
@@ -240,30 +224,38 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="190" y="125" key="#com.intellij.ide.util.MemberChooser" timestamp="1584705801521">
+    <state x="190" y="125" key="#com.intellij.ide.util.MemberChooser" timestamp="1584711517626">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="190" y="125" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1584705801521" />
+    <state x="190" y="125" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1584711517626" />
+    <state x="183" y="321" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1584709634409">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="183" y="321" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.824@0.0.1536.824" timestamp="1584709634409" />
+    <state x="13" y="83" key="#toString()_Generation_Settings" timestamp="1584710825878">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="13" y="83" key="#toString()_Generation_Settings/0.0.1536.824@0.0.1536.824" timestamp="1584710825878" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1584621058932">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584621058932" />
-    <state width="723" height="261" key="GridCell.Tab.0.bottom" timestamp="1584536659038">
+    <state width="723" height="212" key="GridCell.Tab.0.bottom" timestamp="1584711951825">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584536659038" />
-    <state width="723" height="261" key="GridCell.Tab.0.center" timestamp="1584536659038">
+    <state width="723" height="212" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584711951825" />
+    <state width="723" height="212" key="GridCell.Tab.0.center" timestamp="1584711951825">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584536659038" />
-    <state width="723" height="261" key="GridCell.Tab.0.left" timestamp="1584536659038">
+    <state width="723" height="212" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584711951825" />
+    <state width="723" height="212" key="GridCell.Tab.0.left" timestamp="1584711951825">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584536659038" />
-    <state width="723" height="261" key="GridCell.Tab.0.right" timestamp="1584536659038">
+    <state width="723" height="212" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584711951825" />
+    <state width="723" height="212" key="GridCell.Tab.0.right" timestamp="1584711951825">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584536659038" />
+    <state width="723" height="212" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584711951825" />
     <state width="723" height="261" key="GridCell.Tab.1.bottom" timestamp="1584536659038">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

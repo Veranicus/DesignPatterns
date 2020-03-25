@@ -1,4 +1,4 @@
-package com.patrikpolacek.Builder;
+package com.patrikpolacek.Builder.BuilderExample;
 
 import java.util.LinkedList;
 

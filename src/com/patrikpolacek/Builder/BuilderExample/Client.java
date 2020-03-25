@@ -1,4 +1,4 @@
-package com.patrikpolacek.Builder;
+package com.patrikpolacek.Builder.BuilderExample;
 
 public class Client {
     public static void main(String[] args) {

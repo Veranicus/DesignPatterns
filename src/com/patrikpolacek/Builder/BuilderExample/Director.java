@@ -1,4 +1,4 @@
-package com.patrikpolacek.Builder;
+package com.patrikpolacek.Builder.BuilderExample;
 
 public class Director {
     BuilderInterface myBuilder;
