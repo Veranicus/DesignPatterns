@@ -1,0 +1,45 @@
+Provides unified interface to set of interface within a system.
+Defines higher level interface that makes subsystems easier to use
+Hides complexity of subsystems
+Doesn't add any new functionality
+
+Subsystem - set of classes usually with specificc use/domain.
+
+Facade - front of the building. Just a face of the building, you doesn't know anything about wiring, piping...
+We want to interact with system in an easier way.
+
+You want to organise party for 100 people. You just say to catering company how many ppl there are going to be,
+when... They will take care of the rest, how much food you need...
+
+IN JAVA:
+JDBC drivers.
+Clients call jdbc.connect, we dont care how exactly the connection is made. JDBC driver takes care of that.
+
+It's a helper design patern, it doesn't prohibits the usage of subsystem interface for the client. You can still
+use them if you want.
+
+Can be applied at any point in sw development processs.
+
+Subsystems shouldn't know about facade.
+
+LOOSE COUPLING. We hide the need for knowledge of internal subsytem components from clinets.
+
+Reduces compilation dependencies.
+
+Abstraction of subsystems, we are using just simple interface.
+
+Entry point to each subsystem.
+
+Adapter - use when you have existing class and interface you don't want, or is not possible to integrate due to it's
+different architecture
+
+Facade - use to simplify complex subsystems into simple interface, decrease complexity of the system, promote loose
+coupling
+
+Decorator - adds new functionality
+
+Clients contact facade to contact subsystems.
+
+Subsystems can become private classes
+
+
