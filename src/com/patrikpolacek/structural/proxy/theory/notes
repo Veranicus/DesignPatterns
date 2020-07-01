@@ -1,0 +1,15 @@
+Subject - common itnerface for RealSubject and Proxy
+a proxy can be used anywhere a RealSubject is expected
+
+
+proxy - clients interact with real subject through proxy
+
+proxy can access even delete real subject.
+
+Subject is running on remote machine
+
+Subject is expensive to create and you want to creaty it only when you want
+
+
+remote proxies - encodes request for sending request to real subject running on different adress space
+has authority to do something in authority of client
