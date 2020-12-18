@@ -1,51 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a13d1b65-1ada-4ab2-a8a5-03864a60e9d1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/behavioral/mediator/challenge/AuctionMediator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/behavioral/mediator/challenge/AuctionMediatorImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/behavioral/mediator/challenge/Buyer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/behavioral/mediator/challenge/BuyerImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/behavioral/mediator/challenge/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/behavioral/mediator/example/ChatMediator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/behavioral/mediator/example/ChatMediatorImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/behavioral/mediator/example/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/behavioral/mediator/example/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/behavioral/mediator/example/UserImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/behavioral/mediator/theory/ClassDiagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/behavioral/mediator/theory/ObjectStructure.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/behavioral/mediator/theory/Screenshot_66.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/behavioral/mediator/theory/Screenshot_67.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/behavioral/mediator/theory/Screenshot_68.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/behavioral/mediator/theory/Screenshot_69.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/behavioral/mediator/theory/Screenshot_70.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/behavioral/mediator/theory/Screenshot_71.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/behavioral/mediator/theory/Screenshot_73.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/behavioral/mediator/theory/Screenshot_75.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/behavioral/mediator/theory/Screenshot_76.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/behavioral/memento/challenge/Caretaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/behavioral/memento/challenge/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/behavioral/memento/challenge/Originator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/behavioral/memento/example/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/behavioral/memento/example/FileWriterCaretaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/behavioral/memento/example/FileWriterUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/behavioral/memento/theory/Memento1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/behavioral/memento/theory/Memento2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/behavioral/memento/theory/Memento3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/behavioral/memento/theory/Memento4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/behavioral/observer/example/MyTopic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/behavioral/observer/example/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/behavioral/observer/example/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/behavioral/observer/theory/Screenshot_100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/behavioral/observer/theory/Screenshot_102.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/behavioral/observer/theory/Screenshot_103.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/behavioral/observer/theory/Screenshot_104.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/patrikpolacek/behavioral/observer/theory/Screenshot_105.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/patrikpolacek/behavioral/Iterator/example/NotificationCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/patrikpolacek/behavioral/Iterator/example/NotificationCollection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/patrikpolacek/behavioral/chainofresponsibility/challenge/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/patrikpolacek/behavioral/chainofresponsibility/challenge/Message.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/patrikpolacek/creational/singleton/bill_pugh_approach/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/patrikpolacek/creational/singleton/bill_pugh_approach/Singleton.java" afterDir="false" />
-    </list>
+    <list default="true" id="a13d1b65-1ada-4ab2-a8a5-03864a60e9d1" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -292,6 +248,7 @@
       <workItem from="1605781428655" duration="1736000" />
       <workItem from="1605900755130" duration="1273000" />
       <workItem from="1605996000016" duration="45000" />
+      <workItem from="1608325859692" duration="445000" />
     </task>
     <task id="LOCAL-00001" summary="...">
       <created>1593420004895</created>
@@ -342,7 +299,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595509582237</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Additional patterns added">
+      <created>1608325896214</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1608325896214</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -368,7 +332,8 @@
     <MESSAGE value="command finished" />
     <MESSAGE value="Interpreter Finished" />
     <MESSAGE value="Iterator Finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="Iterator Finished" />
+    <MESSAGE value="Additional patterns added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Additional patterns added" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -381,6 +346,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="190" y="125" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1160@0.0.1920.1160" timestamp="1603141270248" />
+    <state x="527" y="147" key="CommitChangelistDialog2" timestamp="1608325893536">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="527" y="147" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1608325893536" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1603135352728">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -401,30 +370,14 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state width="900" height="214" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1603143268185" />
-    <state width="1876" height="390" key="GridCell.Tab.1.bottom" timestamp="1597334137768">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state width="1876" height="390" key="GridCell.Tab.1.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1597334137768" />
-    <state width="1876" height="390" key="GridCell.Tab.1.center" timestamp="1597334137768">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state width="1876" height="390" key="GridCell.Tab.1.center/0.0.1920.1160@0.0.1920.1160" timestamp="1597334137768" />
-    <state width="1876" height="390" key="GridCell.Tab.1.left" timestamp="1597334137768">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state width="1876" height="390" key="GridCell.Tab.1.left/0.0.1920.1160@0.0.1920.1160" timestamp="1597334137768" />
-    <state width="1876" height="390" key="GridCell.Tab.1.right" timestamp="1597334137768">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state width="1876" height="390" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1597334137768" />
     <state x="922" y="211" key="SettingsEditor" timestamp="1604851771345">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="922" y="211" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1604851771345" />
-    <state x="297" y="493" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597323258434">
+    <state x="552" y="312" key="Vcs.Push.Dialog.v2" timestamp="1608325897911">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="297" y="493" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1160@0.0.1920.1160" timestamp="1597323258434" />
+    <state x="552" y="312" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1608325897911" />
     <state x="551" y="199" key="new project wizard" timestamp="1605781959476">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
