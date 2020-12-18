@@ -1,6 +1,7 @@
 package com.patrikpolacek.behavioral.chainofresponsibility.challenge;
 
 public class Message {
+
     String text;
 
     MessagePriority messagePriority;

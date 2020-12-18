@@ -1,6 +1,7 @@
 package com.patrikpolacek.behavioral.Iterator.example;
 
 public class NotificationCollection implements Collection {
+
     static final int MAX_ITEMS = 6;
 
     int numberOfItems = 0;

@@ -8,7 +8,7 @@ public class Singleton {
 
 //    this class is loaded into memory after someone calls getInstance!
     private static class SingletonHelper {
-        //        nested class is referenced after get instanceis called
+        //        nested class is referenced after get instance is called
         private static final Singleton uniqueInstance = new Singleton();
     }
 
